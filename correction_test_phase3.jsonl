@@ -1,0 +1,500 @@
+{"query": "Compare 212 and 339.", "hallucination": "212 is greater than 339.", "correction": "212 is less than 339."}
+{"query": "Compare 297 and 224.", "hallucination": "297 is less than 224.", "correction": "297 is greater than 224."}
+{"query": "How many minutes are in 47 hours?", "hallucination": "There are 2880 minutes in 47 hours.", "correction": "There are 2820 minutes in 47 hours."}
+{"query": "How many minutes are in 28 hours?", "hallucination": "There are 1740 minutes in 28 hours.", "correction": "There are 1680 minutes in 28 hours."}
+{"query": "What is 73 minus 8?", "hallucination": "The answer is 55.", "correction": "The answer is 65."}
+{"query": "What is 130 plus 11?", "hallucination": "The answer is 131.", "correction": "The answer is 141."}
+{"query": "How many minutes are in 50 hours?", "hallucination": "There are 3060 minutes in 50 hours.", "correction": "There are 3000 minutes in 50 hours."}
+{"query": "How many minutes are in 33 hours?", "hallucination": "There are 2040 minutes in 33 hours.", "correction": "There are 1980 minutes in 33 hours."}
+{"query": "What is 147 plus 15?", "hallucination": "The answer is 152.", "correction": "The answer is 162."}
+{"query": "What is 144 plus 5?", "hallucination": "The answer is 139.", "correction": "The answer is 149."}
+{"query": "What is 136 minus 6?", "hallucination": "The answer is 120.", "correction": "The answer is 130."}
+{"query": "What is 149 plus 16?", "hallucination": "The answer is 175.", "correction": "The answer is 165."}
+{"query": "How many minutes are in 47 hours?", "hallucination": "There are 2880 minutes in 47 hours.", "correction": "There are 2820 minutes in 47 hours."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "How many minutes are in 23 hours?", "hallucination": "There are 1440 minutes in 23 hours.", "correction": "There are 1380 minutes in 23 hours."}
+{"query": "What is 97 plus 14?", "hallucination": "The answer is 101.", "correction": "The answer is 111."}
+{"query": "Compare 420 and 497.", "hallucination": "420 is greater than 497.", "correction": "420 is less than 497."}
+{"query": "What is 117 plus 15?", "hallucination": "The answer is 142.", "correction": "The answer is 132."}
+{"query": "How many minutes are in 32 hours?", "hallucination": "There are 1980 minutes in 32 hours.", "correction": "There are 1920 minutes in 32 hours."}
+{"query": "Compare 282 and 223.", "hallucination": "282 is less than 223.", "correction": "282 is greater than 223."}
+{"query": "How many minutes are in 21 hours?", "hallucination": "There are 1320 minutes in 21 hours.", "correction": "There are 1260 minutes in 21 hours."}
+{"query": "How many minutes are in 50 hours?", "hallucination": "There are 3060 minutes in 50 hours.", "correction": "There are 3000 minutes in 50 hours."}
+{"query": "Compare 452 and 386.", "hallucination": "452 is less than 386.", "correction": "452 is greater than 386."}
+{"query": "What is 57 plus 20?", "hallucination": "The answer is 87.", "correction": "The answer is 77."}
+{"query": "How many minutes are in 44 hours?", "hallucination": "There are 2700 minutes in 44 hours.", "correction": "There are 2640 minutes in 44 hours."}
+{"query": "What is 130 plus 17?", "hallucination": "The answer is 137.", "correction": "The answer is 147."}
+{"query": "What is 122 minus 9?", "hallucination": "The answer is 103.", "correction": "The answer is 113."}
+{"query": "What is 79 plus 8?", "hallucination": "The answer is 77.", "correction": "The answer is 87."}
+{"query": "What is 65 plus 15?", "hallucination": "The answer is 90.", "correction": "The answer is 80."}
+{"query": "Compare 287 and 442.", "hallucination": "287 is greater than 442.", "correction": "287 is less than 442."}
+{"query": "Compare 376 and 408.", "hallucination": "376 is greater than 408.", "correction": "376 is less than 408."}
+{"query": "What is 136 minus 17?", "hallucination": "The answer is 129.", "correction": "The answer is 119."}
+{"query": "What is 51 minus 18?", "hallucination": "The answer is 43.", "correction": "The answer is 33."}
+{"query": "How many minutes are in 28 hours?", "hallucination": "There are 1740 minutes in 28 hours.", "correction": "There are 1680 minutes in 28 hours."}
+{"query": "Compare 344 and 228.", "hallucination": "344 is less than 228.", "correction": "344 is greater than 228."}
+{"query": "How many minutes are in 14 hours?", "hallucination": "There are 900 minutes in 14 hours.", "correction": "There are 840 minutes in 14 hours."}
+{"query": "What is 141 plus 20?", "hallucination": "The answer is 151.", "correction": "The answer is 161."}
+{"query": "What is 84 plus 2?", "hallucination": "The answer is 96.", "correction": "The answer is 86."}
+{"query": "Compare 455 and 490.", "hallucination": "455 is greater than 490.", "correction": "455 is less than 490."}
+{"query": "How many minutes are in 12 hours?", "hallucination": "There are 780 minutes in 12 hours.", "correction": "There are 720 minutes in 12 hours."}
+{"query": "Compare 343 and 486.", "hallucination": "343 is greater than 486.", "correction": "343 is less than 486."}
+{"query": "What is 133 plus 10?", "hallucination": "The answer is 133.", "correction": "The answer is 143."}
+{"query": "What is 84 plus 4?", "hallucination": "The answer is 98.", "correction": "The answer is 88."}
+{"query": "How many minutes are in 29 hours?", "hallucination": "There are 1800 minutes in 29 hours.", "correction": "There are 1740 minutes in 29 hours."}
+{"query": "How many minutes are in 23 hours?", "hallucination": "There are 1440 minutes in 23 hours.", "correction": "There are 1380 minutes in 23 hours."}
+{"query": "How many minutes are in 15 hours?", "hallucination": "There are 960 minutes in 15 hours.", "correction": "There are 900 minutes in 15 hours."}
+{"query": "What is 149 minus 4?", "hallucination": "The answer is 135.", "correction": "The answer is 145."}
+{"query": "How many minutes are in 20 hours?", "hallucination": "There are 1260 minutes in 20 hours.", "correction": "There are 1200 minutes in 20 hours."}
+{"query": "What is 130 plus 2?", "hallucination": "The answer is 142.", "correction": "The answer is 132."}
+{"query": "How many minutes are in 29 hours?", "hallucination": "There are 1800 minutes in 29 hours.", "correction": "There are 1740 minutes in 29 hours."}
+{"query": "Compare 281 and 465.", "hallucination": "281 is greater than 465.", "correction": "281 is less than 465."}
+{"query": "What is 56 minus 19?", "hallucination": "The answer is 27.", "correction": "The answer is 37."}
+{"query": "Compare 203 and 292.", "hallucination": "203 is greater than 292.", "correction": "203 is less than 292."}
+{"query": "Compare 336 and 418.", "hallucination": "336 is greater than 418.", "correction": "336 is less than 418."}
+{"query": "How many minutes are in 23 hours?", "hallucination": "There are 1440 minutes in 23 hours.", "correction": "There are 1380 minutes in 23 hours."}
+{"query": "Compare 282 and 450.", "hallucination": "282 is greater than 450.", "correction": "282 is less than 450."}
+{"query": "Compare 230 and 233.", "hallucination": "230 is greater than 233.", "correction": "230 is less than 233."}
+{"query": "What is 147 plus 4?", "hallucination": "The answer is 141.", "correction": "The answer is 151."}
+{"query": "Compare 292 and 230.", "hallucination": "292 is less than 230.", "correction": "292 is greater than 230."}
+{"query": "Compare 364 and 357.", "hallucination": "364 is less than 357.", "correction": "364 is greater than 357."}
+{"query": "What is 101 plus 8?", "hallucination": "The answer is 119.", "correction": "The answer is 109."}
+{"query": "How many minutes are in 22 hours?", "hallucination": "There are 1380 minutes in 22 hours.", "correction": "There are 1320 minutes in 22 hours."}
+{"query": "What is 116 plus 17?", "hallucination": "The answer is 123.", "correction": "The answer is 133."}
+{"query": "Compare 458 and 213.", "hallucination": "458 is less than 213.", "correction": "458 is greater than 213."}
+{"query": "What is 111 minus 12?", "hallucination": "The answer is 89.", "correction": "The answer is 99."}
+{"query": "What is 65 plus 14?", "hallucination": "The answer is 69.", "correction": "The answer is 79."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "Compare 351 and 319.", "hallucination": "351 is less than 319.", "correction": "351 is greater than 319."}
+{"query": "How many minutes are in 22 hours?", "hallucination": "There are 1380 minutes in 22 hours.", "correction": "There are 1320 minutes in 22 hours."}
+{"query": "Compare 282 and 439.", "hallucination": "282 is greater than 439.", "correction": "282 is less than 439."}
+{"query": "How many minutes are in 27 hours?", "hallucination": "There are 1680 minutes in 27 hours.", "correction": "There are 1620 minutes in 27 hours."}
+{"query": "What is 119 plus 12?", "hallucination": "The answer is 121.", "correction": "The answer is 131."}
+{"query": "Compare 471 and 300.", "hallucination": "471 is less than 300.", "correction": "471 is greater than 300."}
+{"query": "What is 81 plus 5?", "hallucination": "The answer is 76.", "correction": "The answer is 86."}
+{"query": "What is 116 plus 4?", "hallucination": "The answer is 130.", "correction": "The answer is 120."}
+{"query": "Compare 286 and 421.", "hallucination": "286 is greater than 421.", "correction": "286 is less than 421."}
+{"query": "What is 84 plus 3?", "hallucination": "The answer is 77.", "correction": "The answer is 87."}
+{"query": "Compare 310 and 213.", "hallucination": "310 is less than 213.", "correction": "310 is greater than 213."}
+{"query": "What is 111 minus 16?", "hallucination": "The answer is 105.", "correction": "The answer is 95."}
+{"query": "How many minutes are in 34 hours?", "hallucination": "There are 2100 minutes in 34 hours.", "correction": "There are 2040 minutes in 34 hours."}
+{"query": "How many minutes are in 12 hours?", "hallucination": "There are 780 minutes in 12 hours.", "correction": "There are 720 minutes in 12 hours."}
+{"query": "Compare 270 and 485.", "hallucination": "270 is greater than 485.", "correction": "270 is less than 485."}
+{"query": "Compare 303 and 383.", "hallucination": "303 is greater than 383.", "correction": "303 is less than 383."}
+{"query": "Compare 397 and 250.", "hallucination": "397 is less than 250.", "correction": "397 is greater than 250."}
+{"query": "What is 71 plus 9?", "hallucination": "The answer is 70.", "correction": "The answer is 80."}
+{"query": "How many minutes are in 45 hours?", "hallucination": "There are 2760 minutes in 45 hours.", "correction": "There are 2700 minutes in 45 hours."}
+{"query": "How many minutes are in 33 hours?", "hallucination": "There are 2040 minutes in 33 hours.", "correction": "There are 1980 minutes in 33 hours."}
+{"query": "How many minutes are in 21 hours?", "hallucination": "There are 1320 minutes in 21 hours.", "correction": "There are 1260 minutes in 21 hours."}
+{"query": "What is 71 plus 9?", "hallucination": "The answer is 70.", "correction": "The answer is 80."}
+{"query": "What is 59 minus 16?", "hallucination": "The answer is 33.", "correction": "The answer is 43."}
+{"query": "How many minutes are in 21 hours?", "hallucination": "There are 1320 minutes in 21 hours.", "correction": "There are 1260 minutes in 21 hours."}
+{"query": "What is 88 plus 12?", "hallucination": "The answer is 90.", "correction": "The answer is 100."}
+{"query": "What is 63 plus 16?", "hallucination": "The answer is 89.", "correction": "The answer is 79."}
+{"query": "What is 123 plus 18?", "hallucination": "The answer is 131.", "correction": "The answer is 141."}
+{"query": "How many minutes are in 14 hours?", "hallucination": "There are 900 minutes in 14 hours.", "correction": "There are 840 minutes in 14 hours."}
+{"query": "What is 141 minus 15?", "hallucination": "The answer is 116.", "correction": "The answer is 126."}
+{"query": "What is 71 minus 2?", "hallucination": "The answer is 59.", "correction": "The answer is 69."}
+{"query": "How many minutes are in 36 hours?", "hallucination": "There are 2220 minutes in 36 hours.", "correction": "There are 2160 minutes in 36 hours."}
+{"query": "What is 78 plus 5?", "hallucination": "The answer is 73.", "correction": "The answer is 83."}
+{"query": "How many minutes are in 19 hours?", "hallucination": "There are 1200 minutes in 19 hours.", "correction": "There are 1140 minutes in 19 hours."}
+{"query": "Compare 417 and 238.", "hallucination": "417 is less than 238.", "correction": "417 is greater than 238."}
+{"query": "Compare 374 and 491.", "hallucination": "374 is greater than 491.", "correction": "374 is less than 491."}
+{"query": "How many minutes are in 17 hours?", "hallucination": "There are 1080 minutes in 17 hours.", "correction": "There are 1020 minutes in 17 hours."}
+{"query": "What is 83 plus 3?", "hallucination": "The answer is 96.", "correction": "The answer is 86."}
+{"query": "What is 96 plus 4?", "hallucination": "The answer is 90.", "correction": "The answer is 100."}
+{"query": "Compare 269 and 399.", "hallucination": "269 is greater than 399.", "correction": "269 is less than 399."}
+{"query": "What is 78 plus 6?", "hallucination": "The answer is 74.", "correction": "The answer is 84."}
+{"query": "What is 88 plus 5?", "hallucination": "The answer is 83.", "correction": "The answer is 93."}
+{"query": "How many minutes are in 48 hours?", "hallucination": "There are 2940 minutes in 48 hours.", "correction": "There are 2880 minutes in 48 hours."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "What is 106 plus 15?", "hallucination": "The answer is 111.", "correction": "The answer is 121."}
+{"query": "Compare 394 and 364.", "hallucination": "394 is less than 364.", "correction": "394 is greater than 364."}
+{"query": "What is 90 plus 11?", "hallucination": "The answer is 111.", "correction": "The answer is 101."}
+{"query": "What is 141 plus 16?", "hallucination": "The answer is 167.", "correction": "The answer is 157."}
+{"query": "Compare 362 and 319.", "hallucination": "362 is less than 319.", "correction": "362 is greater than 319."}
+{"query": "How many minutes are in 38 hours?", "hallucination": "There are 2340 minutes in 38 hours.", "correction": "There are 2280 minutes in 38 hours."}
+{"query": "What is 85 plus 9?", "hallucination": "The answer is 104.", "correction": "The answer is 94."}
+{"query": "How many minutes are in 47 hours?", "hallucination": "There are 2880 minutes in 47 hours.", "correction": "There are 2820 minutes in 47 hours."}
+{"query": "Compare 235 and 269.", "hallucination": "235 is greater than 269.", "correction": "235 is less than 269."}
+{"query": "What is 81 minus 20?", "hallucination": "The answer is 71.", "correction": "The answer is 61."}
+{"query": "How many minutes are in 36 hours?", "hallucination": "There are 2220 minutes in 36 hours.", "correction": "There are 2160 minutes in 36 hours."}
+{"query": "What is 114 minus 20?", "hallucination": "The answer is 84.", "correction": "The answer is 94."}
+{"query": "How many minutes are in 31 hours?", "hallucination": "There are 1920 minutes in 31 hours.", "correction": "There are 1860 minutes in 31 hours."}
+{"query": "Compare 479 and 379.", "hallucination": "479 is less than 379.", "correction": "479 is greater than 379."}
+{"query": "What is 108 minus 4?", "hallucination": "The answer is 94.", "correction": "The answer is 104."}
+{"query": "How many minutes are in 24 hours?", "hallucination": "There are 1500 minutes in 24 hours.", "correction": "There are 1440 minutes in 24 hours."}
+{"query": "What is 104 plus 7?", "hallucination": "The answer is 101.", "correction": "The answer is 111."}
+{"query": "What is 119 minus 14?", "hallucination": "The answer is 95.", "correction": "The answer is 105."}
+{"query": "What is 122 minus 13?", "hallucination": "The answer is 119.", "correction": "The answer is 109."}
+{"query": "What is 96 minus 17?", "hallucination": "The answer is 89.", "correction": "The answer is 79."}
+{"query": "How many minutes are in 33 hours?", "hallucination": "There are 2040 minutes in 33 hours.", "correction": "There are 1980 minutes in 33 hours."}
+{"query": "How many minutes are in 34 hours?", "hallucination": "There are 2100 minutes in 34 hours.", "correction": "There are 2040 minutes in 34 hours."}
+{"query": "What is 89 minus 10?", "hallucination": "The answer is 69.", "correction": "The answer is 79."}
+{"query": "How many minutes are in 13 hours?", "hallucination": "There are 840 minutes in 13 hours.", "correction": "There are 780 minutes in 13 hours."}
+{"query": "Compare 346 and 217.", "hallucination": "346 is less than 217.", "correction": "346 is greater than 217."}
+{"query": "Compare 246 and 482.", "hallucination": "246 is greater than 482.", "correction": "246 is less than 482."}
+{"query": "What is 118 plus 9?", "hallucination": "The answer is 117.", "correction": "The answer is 127."}
+{"query": "Compare 202 and 326.", "hallucination": "202 is greater than 326.", "correction": "202 is less than 326."}
+{"query": "Compare 496 and 213.", "hallucination": "496 is less than 213.", "correction": "496 is greater than 213."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "What is 109 minus 15?", "hallucination": "The answer is 104.", "correction": "The answer is 94."}
+{"query": "What is 142 minus 4?", "hallucination": "The answer is 148.", "correction": "The answer is 138."}
+{"query": "How many minutes are in 12 hours?", "hallucination": "There are 780 minutes in 12 hours.", "correction": "There are 720 minutes in 12 hours."}
+{"query": "What is 105 plus 20?", "hallucination": "The answer is 135.", "correction": "The answer is 125."}
+{"query": "What is 65 plus 12?", "hallucination": "The answer is 67.", "correction": "The answer is 77."}
+{"query": "What is 74 minus 2?", "hallucination": "The answer is 62.", "correction": "The answer is 72."}
+{"query": "Compare 300 and 360.", "hallucination": "300 is greater than 360.", "correction": "300 is less than 360."}
+{"query": "How many minutes are in 18 hours?", "hallucination": "There are 1140 minutes in 18 hours.", "correction": "There are 1080 minutes in 18 hours."}
+{"query": "Compare 326 and 243.", "hallucination": "326 is less than 243.", "correction": "326 is greater than 243."}
+{"query": "How many minutes are in 25 hours?", "hallucination": "There are 1560 minutes in 25 hours.", "correction": "There are 1500 minutes in 25 hours."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "What is 141 plus 5?", "hallucination": "The answer is 156.", "correction": "The answer is 146."}
+{"query": "Compare 229 and 211.", "hallucination": "229 is less than 211.", "correction": "229 is greater than 211."}
+{"query": "Compare 282 and 428.", "hallucination": "282 is greater than 428.", "correction": "282 is less than 428."}
+{"query": "What is 61 plus 14?", "hallucination": "The answer is 85.", "correction": "The answer is 75."}
+{"query": "How many minutes are in 33 hours?", "hallucination": "There are 2040 minutes in 33 hours.", "correction": "There are 1980 minutes in 33 hours."}
+{"query": "What is 100 minus 20?", "hallucination": "The answer is 70.", "correction": "The answer is 80."}
+{"query": "How many minutes are in 21 hours?", "hallucination": "There are 1320 minutes in 21 hours.", "correction": "There are 1260 minutes in 21 hours."}
+{"query": "How many minutes are in 16 hours?", "hallucination": "There are 1020 minutes in 16 hours.", "correction": "There are 960 minutes in 16 hours."}
+{"query": "How many minutes are in 29 hours?", "hallucination": "There are 1800 minutes in 29 hours.", "correction": "There are 1740 minutes in 29 hours."}
+{"query": "How many minutes are in 42 hours?", "hallucination": "There are 2580 minutes in 42 hours.", "correction": "There are 2520 minutes in 42 hours."}
+{"query": "Compare 413 and 344.", "hallucination": "413 is less than 344.", "correction": "413 is greater than 344."}
+{"query": "What is 117 plus 10?", "hallucination": "The answer is 117.", "correction": "The answer is 127."}
+{"query": "Compare 358 and 285.", "hallucination": "358 is less than 285.", "correction": "358 is greater than 285."}
+{"query": "What is 150 minus 11?", "hallucination": "The answer is 129.", "correction": "The answer is 139."}
+{"query": "Compare 258 and 334.", "hallucination": "258 is greater than 334.", "correction": "258 is less than 334."}
+{"query": "How many minutes are in 27 hours?", "hallucination": "There are 1680 minutes in 27 hours.", "correction": "There are 1620 minutes in 27 hours."}
+{"query": "Compare 210 and 285.", "hallucination": "210 is greater than 285.", "correction": "210 is less than 285."}
+{"query": "What is 134 plus 4?", "hallucination": "The answer is 148.", "correction": "The answer is 138."}
+{"query": "How many minutes are in 24 hours?", "hallucination": "There are 1500 minutes in 24 hours.", "correction": "There are 1440 minutes in 24 hours."}
+{"query": "What is 103 minus 4?", "hallucination": "The answer is 109.", "correction": "The answer is 99."}
+{"query": "Compare 339 and 475.", "hallucination": "339 is greater than 475.", "correction": "339 is less than 475."}
+{"query": "What is 51 plus 4?", "hallucination": "The answer is 45.", "correction": "The answer is 55."}
+{"query": "What is 116 plus 17?", "hallucination": "The answer is 143.", "correction": "The answer is 133."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "Compare 396 and 289.", "hallucination": "396 is less than 289.", "correction": "396 is greater than 289."}
+{"query": "What is 65 minus 5?", "hallucination": "The answer is 50.", "correction": "The answer is 60."}
+{"query": "How many minutes are in 15 hours?", "hallucination": "There are 960 minutes in 15 hours.", "correction": "There are 900 minutes in 15 hours."}
+{"query": "What is 84 plus 7?", "hallucination": "The answer is 101.", "correction": "The answer is 91."}
+{"query": "Compare 382 and 407.", "hallucination": "382 is greater than 407.", "correction": "382 is less than 407."}
+{"query": "How many minutes are in 34 hours?", "hallucination": "There are 2100 minutes in 34 hours.", "correction": "There are 2040 minutes in 34 hours."}
+{"query": "Compare 249 and 424.", "hallucination": "249 is greater than 424.", "correction": "249 is less than 424."}
+{"query": "How many minutes are in 36 hours?", "hallucination": "There are 2220 minutes in 36 hours.", "correction": "There are 2160 minutes in 36 hours."}
+{"query": "How many minutes are in 39 hours?", "hallucination": "There are 2400 minutes in 39 hours.", "correction": "There are 2340 minutes in 39 hours."}
+{"query": "What is 93 plus 13?", "hallucination": "The answer is 96.", "correction": "The answer is 106."}
+{"query": "How many minutes are in 11 hours?", "hallucination": "There are 720 minutes in 11 hours.", "correction": "There are 660 minutes in 11 hours."}
+{"query": "Compare 459 and 426.", "hallucination": "459 is less than 426.", "correction": "459 is greater than 426."}
+{"query": "What is 99 minus 14?", "hallucination": "The answer is 95.", "correction": "The answer is 85."}
+{"query": "Compare 471 and 369.", "hallucination": "471 is less than 369.", "correction": "471 is greater than 369."}
+{"query": "Compare 360 and 373.", "hallucination": "360 is greater than 373.", "correction": "360 is less than 373."}
+{"query": "How many minutes are in 24 hours?", "hallucination": "There are 1500 minutes in 24 hours.", "correction": "There are 1440 minutes in 24 hours."}
+{"query": "Compare 315 and 457.", "hallucination": "315 is greater than 457.", "correction": "315 is less than 457."}
+{"query": "Compare 431 and 484.", "hallucination": "431 is greater than 484.", "correction": "431 is less than 484."}
+{"query": "How many minutes are in 43 hours?", "hallucination": "There are 2640 minutes in 43 hours.", "correction": "There are 2580 minutes in 43 hours."}
+{"query": "How many minutes are in 34 hours?", "hallucination": "There are 2100 minutes in 34 hours.", "correction": "There are 2040 minutes in 34 hours."}
+{"query": "How many minutes are in 19 hours?", "hallucination": "There are 1200 minutes in 19 hours.", "correction": "There are 1140 minutes in 19 hours."}
+{"query": "How many minutes are in 43 hours?", "hallucination": "There are 2640 minutes in 43 hours.", "correction": "There are 2580 minutes in 43 hours."}
+{"query": "What is 76 minus 20?", "hallucination": "The answer is 66.", "correction": "The answer is 56."}
+{"query": "What is 149 minus 14?", "hallucination": "The answer is 125.", "correction": "The answer is 135."}
+{"query": "What is 80 minus 15?", "hallucination": "The answer is 75.", "correction": "The answer is 65."}
+{"query": "What is 60 minus 8?", "hallucination": "The answer is 62.", "correction": "The answer is 52."}
+{"query": "What is 58 minus 20?", "hallucination": "The answer is 48.", "correction": "The answer is 38."}
+{"query": "What is 106 minus 5?", "hallucination": "The answer is 91.", "correction": "The answer is 101."}
+{"query": "Compare 387 and 290.", "hallucination": "387 is less than 290.", "correction": "387 is greater than 290."}
+{"query": "What is 78 plus 8?", "hallucination": "The answer is 76.", "correction": "The answer is 86."}
+{"query": "How many minutes are in 19 hours?", "hallucination": "There are 1200 minutes in 19 hours.", "correction": "There are 1140 minutes in 19 hours."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "Compare 347 and 374.", "hallucination": "347 is greater than 374.", "correction": "347 is less than 374."}
+{"query": "What is 72 plus 6?", "hallucination": "The answer is 68.", "correction": "The answer is 78."}
+{"query": "Compare 378 and 481.", "hallucination": "378 is greater than 481.", "correction": "378 is less than 481."}
+{"query": "Compare 407 and 437.", "hallucination": "407 is greater than 437.", "correction": "407 is less than 437."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "What is 133 minus 13?", "hallucination": "The answer is 130.", "correction": "The answer is 120."}
+{"query": "Compare 373 and 333.", "hallucination": "373 is less than 333.", "correction": "373 is greater than 333."}
+{"query": "What is 103 minus 6?", "hallucination": "The answer is 107.", "correction": "The answer is 97."}
+{"query": "Compare 452 and 340.", "hallucination": "452 is less than 340.", "correction": "452 is greater than 340."}
+{"query": "What is 59 plus 18?", "hallucination": "The answer is 67.", "correction": "The answer is 77."}
+{"query": "Compare 352 and 385.", "hallucination": "352 is greater than 385.", "correction": "352 is less than 385."}
+{"query": "Compare 424 and 472.", "hallucination": "424 is greater than 472.", "correction": "424 is less than 472."}
+{"query": "What is 85 plus 11?", "hallucination": "The answer is 106.", "correction": "The answer is 96."}
+{"query": "Compare 391 and 448.", "hallucination": "391 is greater than 448.", "correction": "391 is less than 448."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "What is 142 plus 5?", "hallucination": "The answer is 157.", "correction": "The answer is 147."}
+{"query": "What is 113 minus 10?", "hallucination": "The answer is 93.", "correction": "The answer is 103."}
+{"query": "How many minutes are in 32 hours?", "hallucination": "There are 1980 minutes in 32 hours.", "correction": "There are 1920 minutes in 32 hours."}
+{"query": "What is 145 plus 12?", "hallucination": "The answer is 167.", "correction": "The answer is 157."}
+{"query": "How many minutes are in 10 hours?", "hallucination": "There are 660 minutes in 10 hours.", "correction": "There are 600 minutes in 10 hours."}
+{"query": "Compare 259 and 397.", "hallucination": "259 is greater than 397.", "correction": "259 is less than 397."}
+{"query": "What is 111 minus 8?", "hallucination": "The answer is 113.", "correction": "The answer is 103."}
+{"query": "Compare 429 and 496.", "hallucination": "429 is greater than 496.", "correction": "429 is less than 496."}
+{"query": "How many minutes are in 26 hours?", "hallucination": "There are 1620 minutes in 26 hours.", "correction": "There are 1560 minutes in 26 hours."}
+{"query": "How many minutes are in 15 hours?", "hallucination": "There are 960 minutes in 15 hours.", "correction": "There are 900 minutes in 15 hours."}
+{"query": "Compare 269 and 407.", "hallucination": "269 is greater than 407.", "correction": "269 is less than 407."}
+{"query": "What is 99 minus 2?", "hallucination": "The answer is 87.", "correction": "The answer is 97."}
+{"query": "What is 71 plus 12?", "hallucination": "The answer is 73.", "correction": "The answer is 83."}
+{"query": "What is 129 minus 7?", "hallucination": "The answer is 132.", "correction": "The answer is 122."}
+{"query": "Compare 278 and 371.", "hallucination": "278 is greater than 371.", "correction": "278 is less than 371."}
+{"query": "How many minutes are in 32 hours?", "hallucination": "There are 1980 minutes in 32 hours.", "correction": "There are 1920 minutes in 32 hours."}
+{"query": "Compare 324 and 367.", "hallucination": "324 is greater than 367.", "correction": "324 is less than 367."}
+{"query": "How many minutes are in 43 hours?", "hallucination": "There are 2640 minutes in 43 hours.", "correction": "There are 2580 minutes in 43 hours."}
+{"query": "Compare 428 and 348.", "hallucination": "428 is less than 348.", "correction": "428 is greater than 348."}
+{"query": "How many minutes are in 42 hours?", "hallucination": "There are 2580 minutes in 42 hours.", "correction": "There are 2520 minutes in 42 hours."}
+{"query": "How many minutes are in 18 hours?", "hallucination": "There are 1140 minutes in 18 hours.", "correction": "There are 1080 minutes in 18 hours."}
+{"query": "What is 90 plus 7?", "hallucination": "The answer is 107.", "correction": "The answer is 97."}
+{"query": "Compare 331 and 348.", "hallucination": "331 is greater than 348.", "correction": "331 is less than 348."}
+{"query": "What is 128 plus 10?", "hallucination": "The answer is 128.", "correction": "The answer is 138."}
+{"query": "Compare 459 and 354.", "hallucination": "459 is less than 354.", "correction": "459 is greater than 354."}
+{"query": "Compare 329 and 205.", "hallucination": "329 is less than 205.", "correction": "329 is greater than 205."}
+{"query": "Compare 312 and 334.", "hallucination": "312 is greater than 334.", "correction": "312 is less than 334."}
+{"query": "What is 86 minus 4?", "hallucination": "The answer is 72.", "correction": "The answer is 82."}
+{"query": "What is 100 minus 6?", "hallucination": "The answer is 104.", "correction": "The answer is 94."}
+{"query": "Compare 269 and 345.", "hallucination": "269 is greater than 345.", "correction": "269 is less than 345."}
+{"query": "How many minutes are in 46 hours?", "hallucination": "There are 2820 minutes in 46 hours.", "correction": "There are 2760 minutes in 46 hours."}
+{"query": "What is 143 minus 6?", "hallucination": "The answer is 147.", "correction": "The answer is 137."}
+{"query": "Compare 351 and 451.", "hallucination": "351 is greater than 451.", "correction": "351 is less than 451."}
+{"query": "What is 134 plus 2?", "hallucination": "The answer is 126.", "correction": "The answer is 136."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "How many minutes are in 44 hours?", "hallucination": "There are 2700 minutes in 44 hours.", "correction": "There are 2640 minutes in 44 hours."}
+{"query": "Compare 257 and 287.", "hallucination": "257 is greater than 287.", "correction": "257 is less than 287."}
+{"query": "What is 144 plus 12?", "hallucination": "The answer is 146.", "correction": "The answer is 156."}
+{"query": "Compare 481 and 367.", "hallucination": "481 is less than 367.", "correction": "481 is greater than 367."}
+{"query": "What is 111 minus 9?", "hallucination": "The answer is 112.", "correction": "The answer is 102."}
+{"query": "Compare 288 and 225.", "hallucination": "288 is less than 225.", "correction": "288 is greater than 225."}
+{"query": "Compare 471 and 415.", "hallucination": "471 is less than 415.", "correction": "471 is greater than 415."}
+{"query": "What is 69 minus 11?", "hallucination": "The answer is 48.", "correction": "The answer is 58."}
+{"query": "What is 89 minus 15?", "hallucination": "The answer is 64.", "correction": "The answer is 74."}
+{"query": "Compare 456 and 265.", "hallucination": "456 is less than 265.", "correction": "456 is greater than 265."}
+{"query": "Compare 404 and 218.", "hallucination": "404 is less than 218.", "correction": "404 is greater than 218."}
+{"query": "How many minutes are in 39 hours?", "hallucination": "There are 2400 minutes in 39 hours.", "correction": "There are 2340 minutes in 39 hours."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "What is 118 minus 4?", "hallucination": "The answer is 104.", "correction": "The answer is 114."}
+{"query": "What is 92 plus 4?", "hallucination": "The answer is 106.", "correction": "The answer is 96."}
+{"query": "What is 113 minus 9?", "hallucination": "The answer is 94.", "correction": "The answer is 104."}
+{"query": "Compare 290 and 330.", "hallucination": "290 is greater than 330.", "correction": "290 is less than 330."}
+{"query": "How many minutes are in 42 hours?", "hallucination": "There are 2580 minutes in 42 hours.", "correction": "There are 2520 minutes in 42 hours."}
+{"query": "What is 94 plus 9?", "hallucination": "The answer is 113.", "correction": "The answer is 103."}
+{"query": "Compare 297 and 206.", "hallucination": "297 is less than 206.", "correction": "297 is greater than 206."}
+{"query": "Compare 423 and 414.", "hallucination": "423 is less than 414.", "correction": "423 is greater than 414."}
+{"query": "What is 87 minus 3?", "hallucination": "The answer is 94.", "correction": "The answer is 84."}
+{"query": "What is 76 minus 3?", "hallucination": "The answer is 83.", "correction": "The answer is 73."}
+{"query": "How many minutes are in 30 hours?", "hallucination": "There are 1860 minutes in 30 hours.", "correction": "There are 1800 minutes in 30 hours."}
+{"query": "Compare 411 and 325.", "hallucination": "411 is less than 325.", "correction": "411 is greater than 325."}
+{"query": "How many minutes are in 36 hours?", "hallucination": "There are 2220 minutes in 36 hours.", "correction": "There are 2160 minutes in 36 hours."}
+{"query": "What is 93 minus 15?", "hallucination": "The answer is 88.", "correction": "The answer is 78."}
+{"query": "How many minutes are in 14 hours?", "hallucination": "There are 900 minutes in 14 hours.", "correction": "There are 840 minutes in 14 hours."}
+{"query": "Compare 303 and 277.", "hallucination": "303 is less than 277.", "correction": "303 is greater than 277."}
+{"query": "What is 122 minus 16?", "hallucination": "The answer is 96.", "correction": "The answer is 106."}
+{"query": "How many minutes are in 11 hours?", "hallucination": "There are 720 minutes in 11 hours.", "correction": "There are 660 minutes in 11 hours."}
+{"query": "Compare 427 and 328.", "hallucination": "427 is less than 328.", "correction": "427 is greater than 328."}
+{"query": "What is 99 minus 8?", "hallucination": "The answer is 101.", "correction": "The answer is 91."}
+{"query": "What is 103 plus 17?", "hallucination": "The answer is 130.", "correction": "The answer is 120."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "Compare 302 and 328.", "hallucination": "302 is greater than 328.", "correction": "302 is less than 328."}
+{"query": "How many minutes are in 42 hours?", "hallucination": "There are 2580 minutes in 42 hours.", "correction": "There are 2520 minutes in 42 hours."}
+{"query": "Compare 496 and 336.", "hallucination": "496 is less than 336.", "correction": "496 is greater than 336."}
+{"query": "Compare 210 and 381.", "hallucination": "210 is greater than 381.", "correction": "210 is less than 381."}
+{"query": "What is 135 minus 13?", "hallucination": "The answer is 132.", "correction": "The answer is 122."}
+{"query": "What is 132 plus 4?", "hallucination": "The answer is 126.", "correction": "The answer is 136."}
+{"query": "Compare 331 and 489.", "hallucination": "331 is greater than 489.", "correction": "331 is less than 489."}
+{"query": "What is 134 plus 6?", "hallucination": "The answer is 130.", "correction": "The answer is 140."}
+{"query": "How many minutes are in 24 hours?", "hallucination": "There are 1500 minutes in 24 hours.", "correction": "There are 1440 minutes in 24 hours."}
+{"query": "What is 134 plus 14?", "hallucination": "The answer is 158.", "correction": "The answer is 148."}
+{"query": "How many minutes are in 17 hours?", "hallucination": "There are 1080 minutes in 17 hours.", "correction": "There are 1020 minutes in 17 hours."}
+{"query": "What is 111 plus 17?", "hallucination": "The answer is 138.", "correction": "The answer is 128."}
+{"query": "Compare 258 and 221.", "hallucination": "258 is less than 221.", "correction": "258 is greater than 221."}
+{"query": "What is 101 plus 16?", "hallucination": "The answer is 127.", "correction": "The answer is 117."}
+{"query": "What is 59 minus 6?", "hallucination": "The answer is 43.", "correction": "The answer is 53."}
+{"query": "What is 56 minus 10?", "hallucination": "The answer is 56.", "correction": "The answer is 46."}
+{"query": "How many minutes are in 18 hours?", "hallucination": "There are 1140 minutes in 18 hours.", "correction": "There are 1080 minutes in 18 hours."}
+{"query": "How many minutes are in 22 hours?", "hallucination": "There are 1380 minutes in 22 hours.", "correction": "There are 1320 minutes in 22 hours."}
+{"query": "Compare 206 and 412.", "hallucination": "206 is greater than 412.", "correction": "206 is less than 412."}
+{"query": "What is 105 plus 16?", "hallucination": "The answer is 131.", "correction": "The answer is 121."}
+{"query": "What is 67 minus 8?", "hallucination": "The answer is 69.", "correction": "The answer is 59."}
+{"query": "How many minutes are in 28 hours?", "hallucination": "There are 1740 minutes in 28 hours.", "correction": "There are 1680 minutes in 28 hours."}
+{"query": "What is 75 plus 20?", "hallucination": "The answer is 85.", "correction": "The answer is 95."}
+{"query": "What is 83 minus 14?", "hallucination": "The answer is 59.", "correction": "The answer is 69."}
+{"query": "How many minutes are in 12 hours?", "hallucination": "There are 780 minutes in 12 hours.", "correction": "There are 720 minutes in 12 hours."}
+{"query": "How many minutes are in 30 hours?", "hallucination": "There are 1860 minutes in 30 hours.", "correction": "There are 1800 minutes in 30 hours."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "Compare 229 and 329.", "hallucination": "229 is greater than 329.", "correction": "229 is less than 329."}
+{"query": "Compare 225 and 281.", "hallucination": "225 is greater than 281.", "correction": "225 is less than 281."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "Compare 395 and 286.", "hallucination": "395 is less than 286.", "correction": "395 is greater than 286."}
+{"query": "Compare 490 and 356.", "hallucination": "490 is less than 356.", "correction": "490 is greater than 356."}
+{"query": "How many minutes are in 43 hours?", "hallucination": "There are 2640 minutes in 43 hours.", "correction": "There are 2580 minutes in 43 hours."}
+{"query": "How many minutes are in 24 hours?", "hallucination": "There are 1500 minutes in 24 hours.", "correction": "There are 1440 minutes in 24 hours."}
+{"query": "How many minutes are in 48 hours?", "hallucination": "There are 2940 minutes in 48 hours.", "correction": "There are 2880 minutes in 48 hours."}
+{"query": "How many minutes are in 38 hours?", "hallucination": "There are 2340 minutes in 38 hours.", "correction": "There are 2280 minutes in 38 hours."}
+{"query": "What is 147 plus 14?", "hallucination": "The answer is 151.", "correction": "The answer is 161."}
+{"query": "Compare 283 and 410.", "hallucination": "283 is greater than 410.", "correction": "283 is less than 410."}
+{"query": "How many minutes are in 45 hours?", "hallucination": "There are 2760 minutes in 45 hours.", "correction": "There are 2700 minutes in 45 hours."}
+{"query": "Compare 267 and 456.", "hallucination": "267 is greater than 456.", "correction": "267 is less than 456."}
+{"query": "Compare 335 and 282.", "hallucination": "335 is less than 282.", "correction": "335 is greater than 282."}
+{"query": "Compare 369 and 258.", "hallucination": "369 is less than 258.", "correction": "369 is greater than 258."}
+{"query": "How many minutes are in 46 hours?", "hallucination": "There are 2820 minutes in 46 hours.", "correction": "There are 2760 minutes in 46 hours."}
+{"query": "What is 111 minus 18?", "hallucination": "The answer is 103.", "correction": "The answer is 93."}
+{"query": "Compare 230 and 446.", "hallucination": "230 is greater than 446.", "correction": "230 is less than 446."}
+{"query": "How many minutes are in 18 hours?", "hallucination": "There are 1140 minutes in 18 hours.", "correction": "There are 1080 minutes in 18 hours."}
+{"query": "What is 134 plus 6?", "hallucination": "The answer is 150.", "correction": "The answer is 140."}
+{"query": "How many minutes are in 22 hours?", "hallucination": "There are 1380 minutes in 22 hours.", "correction": "There are 1320 minutes in 22 hours."}
+{"query": "What is 66 plus 19?", "hallucination": "The answer is 75.", "correction": "The answer is 85."}
+{"query": "How many minutes are in 29 hours?", "hallucination": "There are 1800 minutes in 29 hours.", "correction": "There are 1740 minutes in 29 hours."}
+{"query": "What is 105 plus 13?", "hallucination": "The answer is 108.", "correction": "The answer is 118."}
+{"query": "What is 139 plus 18?", "hallucination": "The answer is 167.", "correction": "The answer is 157."}
+{"query": "What is 141 minus 2?", "hallucination": "The answer is 129.", "correction": "The answer is 139."}
+{"query": "What is 129 minus 8?", "hallucination": "The answer is 111.", "correction": "The answer is 121."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "How many minutes are in 41 hours?", "hallucination": "There are 2520 minutes in 41 hours.", "correction": "There are 2460 minutes in 41 hours."}
+{"query": "What is 53 minus 18?", "hallucination": "The answer is 25.", "correction": "The answer is 35."}
+{"query": "Compare 425 and 297.", "hallucination": "425 is less than 297.", "correction": "425 is greater than 297."}
+{"query": "How many minutes are in 48 hours?", "hallucination": "There are 2940 minutes in 48 hours.", "correction": "There are 2880 minutes in 48 hours."}
+{"query": "How many minutes are in 24 hours?", "hallucination": "There are 1500 minutes in 24 hours.", "correction": "There are 1440 minutes in 24 hours."}
+{"query": "What is 134 plus 11?", "hallucination": "The answer is 135.", "correction": "The answer is 145."}
+{"query": "What is 61 plus 3?", "hallucination": "The answer is 54.", "correction": "The answer is 64."}
+{"query": "What is 126 minus 20?", "hallucination": "The answer is 96.", "correction": "The answer is 106."}
+{"query": "Compare 253 and 362.", "hallucination": "253 is greater than 362.", "correction": "253 is less than 362."}
+{"query": "Compare 322 and 448.", "hallucination": "322 is greater than 448.", "correction": "322 is less than 448."}
+{"query": "What is 130 plus 12?", "hallucination": "The answer is 152.", "correction": "The answer is 142."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "What is 64 minus 13?", "hallucination": "The answer is 61.", "correction": "The answer is 51."}
+{"query": "What is 128 plus 14?", "hallucination": "The answer is 152.", "correction": "The answer is 142."}
+{"query": "How many minutes are in 11 hours?", "hallucination": "There are 720 minutes in 11 hours.", "correction": "There are 660 minutes in 11 hours."}
+{"query": "How many minutes are in 32 hours?", "hallucination": "There are 1980 minutes in 32 hours.", "correction": "There are 1920 minutes in 32 hours."}
+{"query": "Compare 490 and 233.", "hallucination": "490 is less than 233.", "correction": "490 is greater than 233."}
+{"query": "What is 131 plus 8?", "hallucination": "The answer is 149.", "correction": "The answer is 139."}
+{"query": "How many minutes are in 47 hours?", "hallucination": "There are 2880 minutes in 47 hours.", "correction": "There are 2820 minutes in 47 hours."}
+{"query": "Compare 254 and 247.", "hallucination": "254 is less than 247.", "correction": "254 is greater than 247."}
+{"query": "What is 64 minus 14?", "hallucination": "The answer is 40.", "correction": "The answer is 50."}
+{"query": "What is 132 plus 8?", "hallucination": "The answer is 150.", "correction": "The answer is 140."}
+{"query": "What is 126 plus 6?", "hallucination": "The answer is 122.", "correction": "The answer is 132."}
+{"query": "Compare 432 and 412.", "hallucination": "432 is less than 412.", "correction": "432 is greater than 412."}
+{"query": "Compare 455 and 380.", "hallucination": "455 is less than 380.", "correction": "455 is greater than 380."}
+{"query": "Compare 298 and 351.", "hallucination": "298 is greater than 351.", "correction": "298 is less than 351."}
+{"query": "Compare 491 and 265.", "hallucination": "491 is less than 265.", "correction": "491 is greater than 265."}
+{"query": "How many minutes are in 16 hours?", "hallucination": "There are 1020 minutes in 16 hours.", "correction": "There are 960 minutes in 16 hours."}
+{"query": "What is 76 minus 19?", "hallucination": "The answer is 67.", "correction": "The answer is 57."}
+{"query": "What is 81 plus 17?", "hallucination": "The answer is 88.", "correction": "The answer is 98."}
+{"query": "What is 53 minus 7?", "hallucination": "The answer is 56.", "correction": "The answer is 46."}
+{"query": "What is 115 plus 7?", "hallucination": "The answer is 112.", "correction": "The answer is 122."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "How many minutes are in 16 hours?", "hallucination": "There are 1020 minutes in 16 hours.", "correction": "There are 960 minutes in 16 hours."}
+{"query": "How many minutes are in 28 hours?", "hallucination": "There are 1740 minutes in 28 hours.", "correction": "There are 1680 minutes in 28 hours."}
+{"query": "Compare 437 and 262.", "hallucination": "437 is less than 262.", "correction": "437 is greater than 262."}
+{"query": "How many minutes are in 25 hours?", "hallucination": "There are 1560 minutes in 25 hours.", "correction": "There are 1500 minutes in 25 hours."}
+{"query": "Compare 412 and 228.", "hallucination": "412 is less than 228.", "correction": "412 is greater than 228."}
+{"query": "How many minutes are in 22 hours?", "hallucination": "There are 1380 minutes in 22 hours.", "correction": "There are 1320 minutes in 22 hours."}
+{"query": "What is 140 plus 20?", "hallucination": "The answer is 170.", "correction": "The answer is 160."}
+{"query": "How many minutes are in 37 hours?", "hallucination": "There are 2280 minutes in 37 hours.", "correction": "There are 2220 minutes in 37 hours."}
+{"query": "How many minutes are in 12 hours?", "hallucination": "There are 780 minutes in 12 hours.", "correction": "There are 720 minutes in 12 hours."}
+{"query": "What is 72 minus 13?", "hallucination": "The answer is 69.", "correction": "The answer is 59."}
+{"query": "What is 74 minus 3?", "hallucination": "The answer is 81.", "correction": "The answer is 71."}
+{"query": "Compare 211 and 343.", "hallucination": "211 is greater than 343.", "correction": "211 is less than 343."}
+{"query": "What is 76 minus 16?", "hallucination": "The answer is 50.", "correction": "The answer is 60."}
+{"query": "How many minutes are in 50 hours?", "hallucination": "There are 3060 minutes in 50 hours.", "correction": "There are 3000 minutes in 50 hours."}
+{"query": "Compare 426 and 402.", "hallucination": "426 is less than 402.", "correction": "426 is greater than 402."}
+{"query": "Compare 459 and 314.", "hallucination": "459 is less than 314.", "correction": "459 is greater than 314."}
+{"query": "What is 72 plus 9?", "hallucination": "The answer is 91.", "correction": "The answer is 81."}
+{"query": "What is 130 minus 18?", "hallucination": "The answer is 102.", "correction": "The answer is 112."}
+{"query": "What is 138 minus 14?", "hallucination": "The answer is 134.", "correction": "The answer is 124."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "How many minutes are in 48 hours?", "hallucination": "There are 2940 minutes in 48 hours.", "correction": "There are 2880 minutes in 48 hours."}
+{"query": "What is 58 minus 11?", "hallucination": "The answer is 57.", "correction": "The answer is 47."}
+{"query": "What is 122 plus 4?", "hallucination": "The answer is 116.", "correction": "The answer is 126."}
+{"query": "How many minutes are in 38 hours?", "hallucination": "There are 2340 minutes in 38 hours.", "correction": "There are 2280 minutes in 38 hours."}
+{"query": "Compare 444 and 440.", "hallucination": "444 is less than 440.", "correction": "444 is greater than 440."}
+{"query": "Compare 446 and 358.", "hallucination": "446 is less than 358.", "correction": "446 is greater than 358."}
+{"query": "Compare 345 and 228.", "hallucination": "345 is less than 228.", "correction": "345 is greater than 228."}
+{"query": "Compare 408 and 279.", "hallucination": "408 is less than 279.", "correction": "408 is greater than 279."}
+{"query": "Compare 441 and 495.", "hallucination": "441 is greater than 495.", "correction": "441 is less than 495."}
+{"query": "How many minutes are in 23 hours?", "hallucination": "There are 1440 minutes in 23 hours.", "correction": "There are 1380 minutes in 23 hours."}
+{"query": "How many minutes are in 40 hours?", "hallucination": "There are 2460 minutes in 40 hours.", "correction": "There are 2400 minutes in 40 hours."}
+{"query": "What is 114 minus 2?", "hallucination": "The answer is 102.", "correction": "The answer is 112."}
+{"query": "What is 102 plus 17?", "hallucination": "The answer is 109.", "correction": "The answer is 119."}
+{"query": "Compare 251 and 381.", "hallucination": "251 is greater than 381.", "correction": "251 is less than 381."}
+{"query": "What is 72 plus 14?", "hallucination": "The answer is 96.", "correction": "The answer is 86."}
+{"query": "What is 115 plus 4?", "hallucination": "The answer is 109.", "correction": "The answer is 119."}
+{"query": "How many minutes are in 50 hours?", "hallucination": "There are 3060 minutes in 50 hours.", "correction": "There are 3000 minutes in 50 hours."}
+{"query": "Compare 307 and 276.", "hallucination": "307 is less than 276.", "correction": "307 is greater than 276."}
+{"query": "What is 53 minus 12?", "hallucination": "The answer is 31.", "correction": "The answer is 41."}
+{"query": "What is 92 minus 7?", "hallucination": "The answer is 75.", "correction": "The answer is 85."}
+{"query": "What is 71 plus 16?", "hallucination": "The answer is 77.", "correction": "The answer is 87."}
+{"query": "How many minutes are in 29 hours?", "hallucination": "There are 1800 minutes in 29 hours.", "correction": "There are 1740 minutes in 29 hours."}
+{"query": "What is 87 minus 4?", "hallucination": "The answer is 93.", "correction": "The answer is 83."}
+{"query": "Compare 323 and 234.", "hallucination": "323 is less than 234.", "correction": "323 is greater than 234."}
+{"query": "What is 71 plus 5?", "hallucination": "The answer is 66.", "correction": "The answer is 76."}
+{"query": "Compare 354 and 350.", "hallucination": "354 is less than 350.", "correction": "354 is greater than 350."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "What is 98 plus 7?", "hallucination": "The answer is 115.", "correction": "The answer is 105."}
+{"query": "How many minutes are in 14 hours?", "hallucination": "There are 900 minutes in 14 hours.", "correction": "There are 840 minutes in 14 hours."}
+{"query": "Compare 387 and 431.", "hallucination": "387 is greater than 431.", "correction": "387 is less than 431."}
+{"query": "How many minutes are in 22 hours?", "hallucination": "There are 1380 minutes in 22 hours.", "correction": "There are 1320 minutes in 22 hours."}
+{"query": "What is 86 plus 2?", "hallucination": "The answer is 78.", "correction": "The answer is 88."}
+{"query": "Compare 380 and 365.", "hallucination": "380 is less than 365.", "correction": "380 is greater than 365."}
+{"query": "What is 84 minus 16?", "hallucination": "The answer is 58.", "correction": "The answer is 68."}
+{"query": "What is 140 minus 14?", "hallucination": "The answer is 136.", "correction": "The answer is 126."}
+{"query": "How many minutes are in 17 hours?", "hallucination": "There are 1080 minutes in 17 hours.", "correction": "There are 1020 minutes in 17 hours."}
+{"query": "What is 99 plus 9?", "hallucination": "The answer is 118.", "correction": "The answer is 108."}
+{"query": "What is 123 minus 4?", "hallucination": "The answer is 129.", "correction": "The answer is 119."}
+{"query": "Compare 433 and 271.", "hallucination": "433 is less than 271.", "correction": "433 is greater than 271."}
+{"query": "Compare 453 and 216.", "hallucination": "453 is less than 216.", "correction": "453 is greater than 216."}
+{"query": "What is 98 plus 16?", "hallucination": "The answer is 124.", "correction": "The answer is 114."}
+{"query": "Compare 490 and 259.", "hallucination": "490 is less than 259.", "correction": "490 is greater than 259."}
+{"query": "What is 60 minus 11?", "hallucination": "The answer is 59.", "correction": "The answer is 49."}
+{"query": "How many minutes are in 31 hours?", "hallucination": "There are 1920 minutes in 31 hours.", "correction": "There are 1860 minutes in 31 hours."}
+{"query": "How many minutes are in 42 hours?", "hallucination": "There are 2580 minutes in 42 hours.", "correction": "There are 2520 minutes in 42 hours."}
+{"query": "What is 55 minus 19?", "hallucination": "The answer is 46.", "correction": "The answer is 36."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "Compare 274 and 305.", "hallucination": "274 is greater than 305.", "correction": "274 is less than 305."}
+{"query": "Compare 265 and 484.", "hallucination": "265 is greater than 484.", "correction": "265 is less than 484."}
+{"query": "Compare 351 and 240.", "hallucination": "351 is less than 240.", "correction": "351 is greater than 240."}
+{"query": "What is 81 plus 9?", "hallucination": "The answer is 100.", "correction": "The answer is 90."}
+{"query": "What is 67 plus 9?", "hallucination": "The answer is 66.", "correction": "The answer is 76."}
+{"query": "Compare 325 and 442.", "hallucination": "325 is greater than 442.", "correction": "325 is less than 442."}
+{"query": "What is 118 plus 4?", "hallucination": "The answer is 112.", "correction": "The answer is 122."}
+{"query": "What is 149 minus 6?", "hallucination": "The answer is 133.", "correction": "The answer is 143."}
+{"query": "What is 66 minus 14?", "hallucination": "The answer is 62.", "correction": "The answer is 52."}
+{"query": "What is 101 plus 12?", "hallucination": "The answer is 123.", "correction": "The answer is 113."}
+{"query": "What is 98 plus 14?", "hallucination": "The answer is 122.", "correction": "The answer is 112."}
+{"query": "What is 133 plus 9?", "hallucination": "The answer is 132.", "correction": "The answer is 142."}
+{"query": "Compare 242 and 253.", "hallucination": "242 is greater than 253.", "correction": "242 is less than 253."}
+{"query": "How many minutes are in 34 hours?", "hallucination": "There are 2100 minutes in 34 hours.", "correction": "There are 2040 minutes in 34 hours."}
+{"query": "What is 137 plus 20?", "hallucination": "The answer is 147.", "correction": "The answer is 157."}
+{"query": "What is 148 minus 11?", "hallucination": "The answer is 147.", "correction": "The answer is 137."}
+{"query": "Compare 311 and 256.", "hallucination": "311 is less than 256.", "correction": "311 is greater than 256."}
+{"query": "What is 69 plus 17?", "hallucination": "The answer is 76.", "correction": "The answer is 86."}
+{"query": "Compare 487 and 481.", "hallucination": "487 is less than 481.", "correction": "487 is greater than 481."}
+{"query": "What is 95 plus 5?", "hallucination": "The answer is 110.", "correction": "The answer is 100."}
+{"query": "What is 96 plus 9?", "hallucination": "The answer is 115.", "correction": "The answer is 105."}
+{"query": "Compare 294 and 432.", "hallucination": "294 is greater than 432.", "correction": "294 is less than 432."}
+{"query": "Compare 476 and 377.", "hallucination": "476 is less than 377.", "correction": "476 is greater than 377."}
+{"query": "How many minutes are in 34 hours?", "hallucination": "There are 2100 minutes in 34 hours.", "correction": "There are 2040 minutes in 34 hours."}
+{"query": "What is 99 minus 6?", "hallucination": "The answer is 103.", "correction": "The answer is 93."}
+{"query": "What is 146 plus 8?", "hallucination": "The answer is 164.", "correction": "The answer is 154."}
+{"query": "Compare 229 and 363.", "hallucination": "229 is greater than 363.", "correction": "229 is less than 363."}
+{"query": "How many minutes are in 23 hours?", "hallucination": "There are 1440 minutes in 23 hours.", "correction": "There are 1380 minutes in 23 hours."}
+{"query": "What is 110 plus 18?", "hallucination": "The answer is 118.", "correction": "The answer is 128."}
+{"query": "Compare 435 and 366.", "hallucination": "435 is less than 366.", "correction": "435 is greater than 366."}
+{"query": "Compare 416 and 468.", "hallucination": "416 is greater than 468.", "correction": "416 is less than 468."}
+{"query": "Compare 293 and 211.", "hallucination": "293 is less than 211.", "correction": "293 is greater than 211."}
+{"query": "Compare 231 and 243.", "hallucination": "231 is greater than 243.", "correction": "231 is less than 243."}
+{"query": "Compare 436 and 485.", "hallucination": "436 is greater than 485.", "correction": "436 is less than 485."}
+{"query": "Compare 342 and 248.", "hallucination": "342 is less than 248.", "correction": "342 is greater than 248."}
+{"query": "How many minutes are in 49 hours?", "hallucination": "There are 3000 minutes in 49 hours.", "correction": "There are 2940 minutes in 49 hours."}
+{"query": "How many minutes are in 18 hours?", "hallucination": "There are 1140 minutes in 18 hours.", "correction": "There are 1080 minutes in 18 hours."}
+{"query": "How many minutes are in 35 hours?", "hallucination": "There are 2160 minutes in 35 hours.", "correction": "There are 2100 minutes in 35 hours."}
+{"query": "What is 148 minus 4?", "hallucination": "The answer is 134.", "correction": "The answer is 144."}
+{"query": "What is 78 minus 12?", "hallucination": "The answer is 56.", "correction": "The answer is 66."}
+{"query": "Compare 283 and 303.", "hallucination": "283 is greater than 303.", "correction": "283 is less than 303."}
+{"query": "How many minutes are in 16 hours?", "hallucination": "There are 1020 minutes in 16 hours.", "correction": "There are 960 minutes in 16 hours."}
+{"query": "What is 115 plus 14?", "hallucination": "The answer is 139.", "correction": "The answer is 129."}
+{"query": "Compare 447 and 392.", "hallucination": "447 is less than 392.", "correction": "447 is greater than 392."}
+{"query": "What is 58 minus 2?", "hallucination": "The answer is 66.", "correction": "The answer is 56."}
+{"query": "How many minutes are in 42 hours?", "hallucination": "There are 2580 minutes in 42 hours.", "correction": "There are 2520 minutes in 42 hours."}
+{"query": "What is 104 plus 4?", "hallucination": "The answer is 98.", "correction": "The answer is 108."}
+{"query": "How many minutes are in 39 hours?", "hallucination": "There are 2400 minutes in 39 hours.", "correction": "There are 2340 minutes in 39 hours."}
+{"query": "How many minutes are in 18 hours?", "hallucination": "There are 1140 minutes in 18 hours.", "correction": "There are 1080 minutes in 18 hours."}
+{"query": "What is 71 plus 7?", "hallucination": "The answer is 68.", "correction": "The answer is 78."}
+{"query": "What is 114 plus 18?", "hallucination": "The answer is 142.", "correction": "The answer is 132."}
+{"query": "Compare 479 and 228.", "hallucination": "479 is less than 228.", "correction": "479 is greater than 228."}
+{"query": "Compare 296 and 334.", "hallucination": "296 is greater than 334.", "correction": "296 is less than 334."}

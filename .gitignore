@@ -1,0 +1,19 @@
+# Ignore model checkpoints (too large for Git)
+tinycorrector-0.5b/
+Qwen-0.5B/
+checkpoints/
+output/
+
+# Ignore logs and cache
+*.log
+__pycache__/
+*.pyc
+
+# Ignore large data (optional, but we'll include the 2MB data files)
+# *.jsonl
+
+# Ignore virtual envs
+venv/
+env/
+.env
+.ipynb_checkpoints/
