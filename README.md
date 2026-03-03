@@ -18,7 +18,7 @@
 
 ## 🌟 Overview
 
-**TinyCorrector** is a specialized Small Language Model (SLM) fine-tuned to detect and fix factual hallucinations in arithmetic, logic, and knowledge recall tasks. By leveraging QLoRA fine-tuning on , we achieve state-of-the-art correction performance in a compact parameter footprint.
+**TinyCorrector** is a specialized Small Language Model (SLM) fine-tuned to detect and fix factual hallucinations in arithmetic, logic, and knowledge recall tasks. By leveraging QLoRA fine-tuning on `Qwen-2.5-0.5B-Instruct`, we achieve state-of-the-art correction performance in a compact parameter footprint.
 
 ### 🚀 Key Results
 - **Correction Success Rate (CSR):** 100.00% (n=100)
